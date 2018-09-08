@@ -7,7 +7,7 @@ description: Test
 
 ```yaml
 type: NormalExercise
-key: f77f637c28
+key: 28af754393
 lang: python
 xp: 100
 skills: 2
@@ -57,4 +57,49 @@ The instructions that follow should be in bullet point form with clear guidance 
 ```{python}
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 62ed8fdd09
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
 ```
