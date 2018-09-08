@@ -3,7 +3,7 @@ title: test
 description: test2
 ---
 
-## Insert exercise title here
+## test
 
 ```yaml
 type: VideoExercise
